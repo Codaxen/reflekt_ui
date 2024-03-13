@@ -24,5 +24,16 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "react",
+    "ui",
+    "components",
+    "reflekt",
+    "uikit",
+    "design",
+    "library",
+    "typescript",
+    "design-system"
+  ]
 }
